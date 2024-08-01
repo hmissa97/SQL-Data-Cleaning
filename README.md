@@ -1,4 +1,4 @@
-# SQL Data Cleaning and Exploring 
+# SQL Data Cleaning and Exploration
 
 ## Financial Risk Data Cleaning
 This repository contains resources for cleaning and exploring a financial risk dataset using SQL. It includes a CSV file with raw data and a SQL script for data cleaning and exploring.
